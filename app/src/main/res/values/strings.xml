@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Cookie Clicker</string>
+    <string name="new_game">New game</string>
+    <string name="exit">Exit</string>
+    <string name="cookie_clicker">Cookie clicker</string>
+    <string name="upgrades">Upgrades</string>
+    <string name="click">click</string>
+    <string name="_0">0</string>
+    <string name="back">Back</string>
+    <string name="upgrade1">Cookie size</string>
+    <string name="upgrade3">Auto tap</string>
+    <string name="upgrade2">Tap value</string>
+    <string name="ulepszenia">ulepszenia</string>
+    <string name="score">Your points: 0</string>
+    <string name="cost1">200</string>
+    <string name="cost2">100</string>
+    <string name="cost3">50</string>
+    <string name="upgrade4">get x2 points</string>
+    <string name="upgrade5">Remove ninja</string>
+    <string name="upgrade6">Lower final score</string>
+    <string name="cost4">50</string>
+    <string name="cost5">500</string>
+    <string name="cost6">300</string>
+    <string name="todo">TODO</string>
+    <string name="score_1000_cookies_to_win">Score over 1000 cookies to win!</string>
+    <string name="congratulations_n_you_finished_the_game_in">Congratulations!  \nyou finished the game in:</string>
+    <string name="textview">TextView</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="ninja">TODO</string>
+</resources>
